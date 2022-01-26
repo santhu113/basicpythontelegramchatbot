@@ -15,6 +15,7 @@
       "description": "Get it from Bot Father",
       "required": true
     }
+  }
     ,
   "buildpacks": [
     {
