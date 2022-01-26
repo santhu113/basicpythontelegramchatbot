@@ -1,0 +1,24 @@
+{
+  "name": "Python telegram bot ",
+  "description": "A Simple Functioning Telegram Bot",
+  "repository": "https://github.com/Surareddy22/basicpythontelegramchatbot",
+  "stack": "container",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    
+
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Get it from Bot Father",
+      "required": true
+    }
+    ,
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
