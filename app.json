@@ -1,6 +1,6 @@
 {
-  "name": "Santhu Chat Bot",
-  "description": "Telegram chat bot made with python",
+  "name": "Santhu Chat bot",
+  "description": "Telegram Chat bot",
   "logo": "https://te.legra.ph/file/e719f19bbeeb7f55e6202.jpg",
   "keywords": [
     "telegram",
@@ -27,9 +27,29 @@
    ],
   "repository": "https://github.com/santhu113/basicpythontelegramchatbot.git",
   "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
+      "value": ""
+    },
+    "MUST_JOIN": {
+      "description": "Add username/id of a channel/group",
+      "required": false,
       "value": ""
     }
   }
