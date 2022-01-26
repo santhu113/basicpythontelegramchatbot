@@ -2,7 +2,6 @@
   "name": "Python telegram bot ",
   "description": "A Simple Functioning Telegram Bot",
   "repository": "https://github.com/Surareddy22/basicpythontelegramchatbot",
-  "stack": "container",
   "keywords": [
     "telegram",
     "bot",
