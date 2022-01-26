@@ -1,7 +1,7 @@
 # basicpythontelegramchatbot
 A Normal Telegram Python Chat Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=U3VyYXJlZGR5MjIvYmFzaWNweXRob250ZWxlZ3JhbWNoYXRib3QgbWFpbg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Surareddy22/basicpythontelegramchatbot)
 
 Deploy to Heroku 
 
